@@ -9,4 +9,4 @@ numpy==1.18.2
 opencv-python==4.2.0.32
 pygame==1.9.6
 soupsieve==1.9.5
-urllib3==1.25.8
+urllib3==1.26.5
